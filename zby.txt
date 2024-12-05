@@ -1,4 +1,4 @@
-更新-在线,#genre#
+更新-12/05,#genre#
 梨园频道,http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=8a60266ca0d60d1e3b75ea4835e8a996&wsTime=1733403919
 移动戏曲,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=9b1e3a7143fe2cbc8e3144ae54e8edf0&wsTime=1733403919
 戏曲频道,http://171.213.132.247:9100/udp/239.93.0.217:9208

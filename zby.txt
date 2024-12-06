@@ -1,4 +1,4 @@
-更新-12/05,#genre#
-梨园频道,http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=8a60266ca0d60d1e3b75ea4835e8a996&wsTime=1733403919
-移动戏曲,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=9b1e3a7143fe2cbc8e3144ae54e8edf0&wsTime=1733403919
-戏曲频道,http://171.213.132.247:9100/udp/239.93.0.217:9208
+更新-12/06,#genre#
+梨园频道,http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=f39aa0acf8b90c15d739a719fc77cdfd&wsTime=1733467210
+移动戏曲,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=a8143a706b69f83048cda09e1d7d91d0&wsTime=1733467210
+戏曲频道,http://171.213.142.83:5555/udp/239.93.0.217:9208
